@@ -1,0 +1,25 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#7539
+    [34mall[39m: [
+      [34;4mApp\Models\Chirp[39;24m {#7546
+        [34mid[39m: [35m1[39m,
+        [34muser_id[39m: [36mnull[39m,
+        [34mmessage[39m: [32m"[39m[32mmy first chirp in the database[39m[32m"[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-09-06 07:58:37[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-09-06 07:58:37[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Chirp[39;24m {#7545
+        [34mid[39m: [35m2[39m,
+        [34muser_id[39m: [35m2[39m,
+        [34mmessage[39m: [32m"[39m[32mEloquent makes database work a breeze![39m[32m"[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-09-06 09:26:45[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-09-06 09:26:45[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Chirp[39;24m {#8740
+        [34mid[39m: [35m3[39m,
+        [34muser_id[39m: [35m2[39m,
+        [34mmessage[39m: [32m"[39m[32mThis is a new message from tinker.[39m[32m"[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-09-06 09:26:54[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-09-06 09:26:54[39m[32m"[39m,
+      },
+    ],
+  }
